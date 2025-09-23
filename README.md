@@ -2,7 +2,7 @@
 Fullstack developer who loves to work on various projects during his free time.
 
 **Currently working on**:
-[Zaptt]([https://github.com/yappify](https://www.getzaptt.com/))
+[Zaptt](https://www.getzaptt.com/)
 
 # Technologies
 > - Python
