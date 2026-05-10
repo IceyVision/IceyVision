@@ -1,8 +1,8 @@
 ## Hey, I'm Ankit! 👋
 
-🎓 SWE student at the University of Sydney, turning caffeine into code and ideas into shipped products.
-🔍 Currently exploring the AI automation space and the backend systems that make it all tick.
-🚀 I believe there is a bright future ahead of the AI era, and I want to help build it.
+🎓 SWE student at the University of Sydney, turning caffeine into code and ideas into shipped products.  
+🔍 Currently exploring the AI automation space and the backend systems that make it all tick.  
+🚀 I believe there is a bright future ahead of the AI era, and I want to help build it.  
 
 ### Tech I work with
 
